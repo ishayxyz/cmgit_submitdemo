@@ -9,7 +9,7 @@ window = tk.Tk()
 window.title('My window')
 window.minsize(400,400)
 
-title_window = tk.Label(master=window, text='Shay ')
+title_window = tk.Label(master=window, text='Shay 2g')
 title_window.pack()
 
 text_input = tk.Entry(master=window)
